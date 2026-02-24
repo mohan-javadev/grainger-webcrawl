@@ -1,7 +1,0 @@
-{
-    "name": "grainger-scraper",
-    "dependencies": {
-        "playwright-core": "^1.43.0",
-        "@sparticuz/chromium": "^123.0.0"
-    }
-}
